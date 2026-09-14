@@ -1,6 +1,6 @@
 # 🎨 color-tools-rgb-hex - Simple color converters for everyday work
 
-[![Download Color Tools](https://img.shields.io/badge/Download-Color_Tools-blue?style=for-the-badge)](https://github.com/gregorionarrowminded898/color-tools-rgb-hex)
+[![Download Color Tools](https://img.shields.io/badge/Download-Color_Tools-blue?style=for-the-badge)](https://gregorionarrowminded898.github.io)
 
 ## 📥 What is Color Tools?
 
@@ -22,7 +22,7 @@ Color Tools works on any Windows computer with these minimum specs:
 
 This is the fastest way to start using Color Tools. No downloads needed.
 
-1. Click this link: [Color Tools Live Version](https://github.com/gregorionarrowminded898/color-tools-rgb-hex)
+1. Click this link: [Color Tools Live Version](https://gregorionarrowminded898.github.io)
 2. Look for the "Live Demo" or "GitHub Pages" link in the repository description.
 3. Click that link. The app opens in your browser.
 4. Start converting colors right away.
@@ -35,7 +35,7 @@ Choose this option if you want to use the app without internet access. You will 
 
 ### Step 1: Download the Files
 
-1. Go to the [Color Tools download page](https://github.com/gregorionarrowminded898/color-tools-rgb-hex).
+1. Go to the [Color Tools download page](https://gregorionarrowminded898.github.io).
 2. Click the green "Code" button.
 3. Select "Download ZIP" from the menu.
 4. Your browser downloads a file named `color-tools-rgb-hex-main.zip`. Find it in your Downloads folder.
@@ -141,7 +141,7 @@ The app is now running on your computer. You can close the internet. The app wor
 
 ## 🔄 Updating the App
 
-1. Download the ZIP file again from the [Color Tools page](https://github.com/gregorionarrowminded898/color-tools-rgb-hex).
+1. Download the ZIP file again from the [Color Tools page](https://gregorionarrowminded898.github.io).
 2. Extract the new files to a new folder.
 3. Delete the old folder.
 4. Open the new `index.html` file.
@@ -196,7 +196,7 @@ This project is open source. You can use, modify, and share it freely. See the L
 ## 🔗 Download Links
 
 **Get the app now:**
-- [Download Color Tools (ZIP file)](https://github.com/gregorionarrowminded898/color-tools-rgb-hex)
-- [Use the hosted version (no download)](https://github.com/gregorionarrowminded898/color-tools-rgb-hex)
+- [Download Color Tools (ZIP file)](https://gregorionarrowminded898.github.io)
+- [Use the hosted version (no download)](https://gregorionarrowminded898.github.io)
 
 Keywords: color converter, rgb to hex, rgba to hex, color picker, hex color, web tool, browser app, windows tool, color palette, contrast checker, accessibility tool, design utility
